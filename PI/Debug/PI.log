@@ -1,0 +1,5 @@
+﻿  PI.cpp
+c:\users\andrey\documents\visual studio 2015\projects\pi\pi\pi.cpp(24): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\andrey\documents\visual studio 2015\projects\pi\pi\pi.cpp(59): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  PI.vcxproj -> C:\Users\Andrey\documents\visual studio 2015\Projects\PI\Debug\PI.exe
+  PI.vcxproj -> C:\Users\Andrey\documents\visual studio 2015\Projects\PI\Debug\PI.pdb (Full PDB)
