@@ -1,21 +1,14 @@
-﻿Сборка начата 18.11.2016 11:18:40.
-     1>Проект "D:\Synchronization\Универ\Параллельное программирование\ЛР\MatrixMultiplication\MatrixMultiplication\MatrixMultiplication.vcxproj" в узле 2 (целевые объекты Build).
+﻿Сборка начата 01.12.2016 23:50:27.
+     1>Проект "D:\MatrixMultiplication\MatrixMultiplication\MatrixMultiplication.vcxproj" в узле 2 (целевые объекты Build).
      1>ClCompile:
          D:\Programs\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /openmp /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt MatrixMultiplication.cpp
          MatrixMultiplication.cpp
-     1>d:\synchronization\универ\параллельное программирование\лр\matrixmultiplication\matrixmultiplication\matrixmultiplication.cpp(44): warning C4244: =: преобразование "int" в "float", возможна потеря данных
-     1>d:\synchronization\универ\параллельное программирование\лр\matrixmultiplication\matrixmultiplication\matrixmultiplication.cpp(113): warning C4244: инициализация: преобразование "time_t" в "double", возможна потеря данных
-     1>d:\synchronization\универ\параллельное программирование\лр\matrixmultiplication\matrixmultiplication\matrixmultiplication.cpp(129): warning C4244: инициализация: преобразование "time_t" в "double", возможна потеря данных
-     1>d:\synchronization\универ\параллельное программирование\лр\matrixmultiplication\matrixmultiplication\matrixmultiplication.cpp(146): warning C4244: =: преобразование "time_t" в "double", возможна потеря данных
-     1>d:\synchronization\универ\параллельное программирование\лр\matrixmultiplication\matrixmultiplication\matrixmultiplication.cpp(162): warning C4244: =: преобразование "time_t" в "double", возможна потеря данных
-     1>d:\synchronization\универ\параллельное программирование\лр\matrixmultiplication\matrixmultiplication\matrixmultiplication.cpp(179): warning C4244: =: преобразование "time_t" в "double", возможна потеря данных
-     1>d:\synchronization\универ\параллельное программирование\лр\matrixmultiplication\matrixmultiplication\matrixmultiplication.cpp(194): warning C4244: =: преобразование "time_t" в "double", возможна потеря данных
        Link:
-         D:\Programs\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Synchronization\Универ\Параллельное программирование\ЛР\MatrixMultiplication\Debug\MatrixMultiplication.exe" /INCREMENTAL /NOLOGO msmpi.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Synchronization\Универ\Параллельное программирование\ЛР\MatrixMultiplication\Debug\MatrixMultiplication.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Synchronization\Универ\Параллельное программирование\ЛР\MatrixMultiplication\Debug\MatrixMultiplication.lib" /MACHINE:X86 Debug\MatrixMultiplication.obj
+         D:\Programs\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\MatrixMultiplication\Debug\MatrixMultiplication.exe" /INCREMENTAL /NOLOGO msmpi.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\MatrixMultiplication\Debug\MatrixMultiplication.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\MatrixMultiplication\Debug\MatrixMultiplication.lib" /MACHINE:X86 Debug\MatrixMultiplication.obj
          Debug\stdafx.obj
-         MatrixMultiplication.vcxproj -> D:\Synchronization\Универ\Параллельное программирование\ЛР\MatrixMultiplication\Debug\MatrixMultiplication.exe
-     1>Построение проекта "D:\Synchronization\Универ\Параллельное программирование\ЛР\MatrixMultiplication\MatrixMultiplication\MatrixMultiplication.vcxproj" завершено (целевые объекты Build).
+         MatrixMultiplication.vcxproj -> D:\MatrixMultiplication\Debug\MatrixMultiplication.exe
+     1>Построение проекта "D:\MatrixMultiplication\MatrixMultiplication\MatrixMultiplication.vcxproj" завершено (целевые объекты Build).
 
 Построение успешно завершено.
 
-Затраченное время: 00:00:01.54
+Затраченное время: 00:00:01.67
